@@ -8,4 +8,10 @@ Weather and Time Zone Dashboard
 - HTML
 - CSS
 - JS
-- REACTJS
+- REACTJS""
+
+---
+
+# Folder Structure
+
+>
